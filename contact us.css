@@ -1,0 +1,28 @@
+:root{
+--maincolor:#eeea11;
+--the1stcolor:#ebd277;
+--the2ndcolor:#636363;
+--mainfont: "Bebas Neue", sans-serif;
+--normalfont:"Montserrat", sans-serif;
+
+
+}
+
+.td{
+    font-family: var(--normalfont);
+    font-size: xx-large;
+    text-align: left;
+    color: var(--the2ndcolor);
+}
+
+.contacts{
+    font-size: xx-large;
+   
+
+
+}
+
+
+body{
+    background-color: var(--maincolor);
+}

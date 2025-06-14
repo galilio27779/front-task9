@@ -1,0 +1,138 @@
+:root{
+--maincolor:#eeea11;
+--the1stcolor:#ebd277;
+--the2ndcolor:#636363;
+--mainfont: "Bebas Neue", sans-serif;
+--normalfont:"Montserrat", sans-serif;
+
+
+}
+
+h1{
+font-family: var(--normalfont);
+color: rgb(64, 21, 221);
+text-align: center;;
+}
+
+
+.galary1{
+    display: inline-block;
+    margin-left: 300;
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.galary2{
+    display: inline-block;
+        margin-left: 300;
+
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.galary3{
+    display: inline-block;
+        margin-left: 300;
+
+    border-style: solid;
+   
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.galary4{
+    display: inline;
+        margin-left: 300;
+
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+
+.galary5{
+    display: inline;
+    margin-left: 300;
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.galary6{
+    display: inline-block;
+        margin-left: 300;
+
+    border-style: solid;
+  
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.galary7{
+    display: inline-block;
+        margin-left: 300;
+
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.galary8{
+    display: inline-block;
+        margin-left: 300;
+
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+
+.galary9{
+    display: inline-block;
+        margin-left: 300;
+
+    border-style: solid;
+    
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+
+body{
+    background-color: var(--maincolor);
+}
